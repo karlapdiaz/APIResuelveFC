@@ -6,3 +6,5 @@ java -jar target/ResuelveFC-0.0.1-SNAPSHOT.war
 mvn install
 mvn clean spring-boot:run
 
+http://localhost:8080/swagger-ui.html#/salario-otros-equipos-controller
+
